@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a5ac62a326bc1c4b8811171635db333, type: 3}
+  m_Name: Arrays
+  m_EditorClassIdentifier: Assembly-CSharp::Arrays
+  fruits:
+  - {fileID: 5918261421666384649, guid: dec59688b2538cb4492bf006e146d8ed, type: 3}
+  - {fileID: 5918261421666384649, guid: f361cb9234ca60346a75e9a402859a41, type: 3}
+  - {fileID: 5918261421666384649, guid: 2fd3ffaa221645e4da42088f55b715b5, type: 3}
+  Addresses:
+  - {fileID: 8786122446753660524, guid: 94e82d823d60b314abfa6adadeca7f83, type: 3}
+  - {fileID: 8786122446753660524, guid: 0c237f0fbe0bf0a408f3a14b63657e9d, type: 3}
+  - {fileID: 8786122446753660524, guid: cb2a4d06c6ee0d64c8686b37f593315a, type: 3}
